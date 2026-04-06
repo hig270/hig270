@@ -1,11 +1,11 @@
 ## higuchi-learn
 ### 樋口陽輝 (ひぐち はるき)
-#### 愛知工業大学 電気学科 電子情報工学専攻 B2
+#### 愛知工業大学 電気学科 電子情報工学専攻 B3
 #### システム工学研究会
 [![Twitter: hig270](https://img.shields.io/twitter/follow/hig270?style=social)](https://x.com/hig270)
 
-セキュリティエンジニア志望
-フルスタックエンジニア...?, 組み込み, 電子回路設計
+通信, 電気, 電子, 組み込み, FE(基本Next.js), BE(基本サーバーレスサービス), AWS勉強中...
+楽しそうだと思えば, なんでもやりますヨ.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=higuchi-learn&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=higuchi-learn&theme=default)
