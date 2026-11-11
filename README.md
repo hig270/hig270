@@ -7,10 +7,10 @@
 通信, 電気, 電子, 組み込み, FE(基本Next.js), BE(基本サーバーレスサービス)
 楽しそうだと思えばなんでもやりますヨ.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=higuchi-learn&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=higuchi-learn&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=higuchi-learn&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=higuchi-learn&theme=default&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hig270&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hig270&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hig270&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hig270&theme=default&utcOffset=9)
 
 ### 【所有資格】
 #### 情報系
